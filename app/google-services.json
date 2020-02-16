@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341104287673",
+    "firebase_url": "https://frient-70a55.firebaseio.com",
+    "project_id": "frient-70a55",
+    "storage_bucket": "frient-70a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341104287673:android:8e305f9e9564afd45d2068",
+        "android_client_info": {
+          "package_name": "ie.frient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341104287673-3bsmfknf4s6e7i4uef0e9ogs8alckvji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8HgUMmr1UVxlK7TWrDp_zrMuzuR6qxAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341104287673-3bsmfknf4s6e7i4uef0e9ogs8alckvji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
